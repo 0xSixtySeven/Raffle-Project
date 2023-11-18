@@ -4,6 +4,7 @@
 
 DEFAULT_ANVIL_KEY := 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
 ETHERSCAN_API_KEY := X17UXE6UMNEEKYX85DGPUG53FWCPNYVBR4
+# etherscan api key is to verify the contract on etherscan, its in the etherscan site under the account settings
 
 help:
 	@echo "Usage:"
