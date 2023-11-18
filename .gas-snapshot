@@ -1,0 +1,3 @@
+RaffleTest:testRaffleInitilizesInOpenState() (gas: 7657)
+RaffleTest:testRaffleRevertsWhenYouDontPayEnough() (gas: 10712)
+RaffleTest:testRaffleStoresPlayersWhenTheyEnter() (gas: 68074)
